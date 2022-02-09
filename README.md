@@ -1,5 +1,5 @@
 ## Goh Wei Chong
-I’m Goh Wei Chong, a Year 2 student in Ngee Ann Polytechnic studying Information Technology. I enjoy trying out new features to create websites and using data analysis with jupyter notebook. I’m interested in AI, Web Design and Data Analytics
+I’m Goh Wei Chong, a Year 2 student in Ngee Ann Polytechnic studying Information Technology. I enjoy trying out new features to create websites and using data analysis with jupyter notebook. I’m interested in AI, Algorithms and Data Analytics
 
 ### Skills and Experience
 - 🎉Python, C#, C++
