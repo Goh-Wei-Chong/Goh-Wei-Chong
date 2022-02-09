@@ -2,9 +2,10 @@
 I’m @Goh-Wei-Chong, a Year 2 student in Ngee Ann Polytechnic studying Information Technology. I enjoy trying out new features to create websites and using data analysis with jupyter notebook. I’m interested in AI, Web Design and Data Analytics
 
 ### Skills and Experience
-- 🎉Python, C#
-- 📁SQL
+- 🎉Python, C#, C++
+- 📁SQL and Cloud Database(NoSQL)
 - 💻HTML, CSS, JS
+- Big O Notation and Algorithms
 - 🌱 I’m currently learning Big O Notation and Algorithms
 
 ### Tools
