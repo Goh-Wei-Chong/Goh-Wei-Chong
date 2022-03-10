@@ -15,7 +15,9 @@ I’m Goh Wei Chong, a Year 2 student in Ngee Ann Polytechnic studying Informati
 <br />
 
 ### Statistics
-<img src='https://github-readme-stats.vercel.app/api?username=Goh-Wei-Chong&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=91370A'>
+<img src='https://github-readme-stats.vercel.app/api?username=Goh-Wei-Chong&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=00FF00&bg_color=FFFFFF'>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goh-Wei-Chong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/goh-wei-chong-9595ba1a7/) and feel free to check out my [WIX](https://10121gohweichong.wixsite.com/mysite)
