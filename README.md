@@ -14,11 +14,6 @@ I’m Goh Wei Chong, a recent graduate from Ngee Ann Polytechnic with a Diploma 
 <br />
 <br />
 
-### Statistics
-<img src='https://github-readme-stats.vercel.app/api?username=Goh-Wei-Chong&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=0408e0&bg_color=FFFFFF'>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goh-Wei-Chong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Connect with me
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/goh-wei-chong-9595ba1a7/) and feel free to check out my [WIX](https://10121gohweichong.wixsite.com/mysite)
 
